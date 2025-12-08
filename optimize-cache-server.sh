@@ -1,8 +1,4 @@
-#!/bin/bash
-# 文件名: optimize-cache-server.sh
-# 描述: Docker镜像缓存服务器一键优化脚本
-# 使用方法: sudo bash optimize-cache-server.sh
-
+!/bin/bash
 set -e  # 遇到错误时退出
 
 echo "========================================="
